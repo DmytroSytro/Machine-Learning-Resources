@@ -6,4 +6,8 @@
 
 ## AI in general
 [Stanford AI course](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  
-[Artificial Intelligence: A Modern Approach, 4th edition](https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500?view=educator)
+[Russell, S. & Norvig, P., 2020, Artificial Intelligence: A Modern Approach, 4th edition](https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500?view=educator)
+
+## Machine Learning in Practice
+Course from FastAI [Practical Deep Learning](https://course.fast.ai/)  
+Classics from Andrew Ng on Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
