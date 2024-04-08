@@ -11,3 +11,7 @@
 ## Machine Learning in Practice
 Course from FastAI [Practical Deep Learning](https://course.fast.ai/)  
 Classics from Andrew Ng on Coursera [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
+
+## Transformers
+Andrew Karpathy's GPT from scratch tutorial [youtube link](https://www.youtube.com/watch?v=kCc8FmEb1nY)  
+Illustrated Transformers for understanding [blog](http://jalammar.github.io/illustrated-transformer/)
